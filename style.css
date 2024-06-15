@@ -303,7 +303,7 @@ color: rgb(94, 94, 94);
     padding: 1vw;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
     margin: 0 .5vw;
-    background-image: url(/2nd\ 2.jpeg);
+    background-image: url(2nd\ 2.jpeg);
     background-position: center;
     background-size: cover;
 }
@@ -320,45 +320,45 @@ color: rgb(94, 94, 94);
 
 
 .second-latest-card{
-    background-image: url(/2nd\ 1.jpeg);
+    background-image: url(2nd\ 1.jpeg);
    
 }
 
 .thired-latest-card{
-    background-image: url(/2nd\ 3.jpeg);
+    background-image: url(2nd\ 3.jpeg);
 }
    
 .forth-latest-card{
-    background-image: url(/2nd\ 4.png);
+    background-image: url(2nd\ 4.png);
 }
 
 .fifth-latest-card{
-    background-image: url(/2nd\ 5.jpeg);
+    background-image: url(2nd\ 5.jpeg);
 }
 
 .sixth-latest-card{
-    background-image: url(/2nd\ 6.jpeg);
+    background-image: url(2nd\ 6.jpeg);
 }
 
 .seventh-latest-card{
-    background-image: url(/2nd\ 7.jpeg);
+    background-image: url(2nd\ 7.jpeg);
 }
 
 .eightth-latest-card{
-    background-image: url(/2nd\ 8.jpeg);
+    background-image: url(2nd\ 8.jpeg);
 }
 
 .nineth-latest-card{
-    background-image: url(/2nd\ 9.jpeg);
+    background-image: url(2nd\ 9.jpeg);
 }
 
 
 .tenth-latest-card{
-    background-image: url(/2nd\ 10.jpeg);
+    background-image: url(2nd\ 10.jpeg);
 }
 
 .tenthone-latest-card{
-    background-image: url(/2nd\ 11.jpeg);
+    background-image: url(2nd\ 11.jpeg);
 }
 
 .abcp{
@@ -432,7 +432,7 @@ color: rgb(94, 94, 94);
        
         box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
         margin: 0 .5vw;
-        background-image: url(/3rd\ 1.jpeg );
+        background-image: url(3rd\ 1.jpeg );
         background-position: center;
         background-size: cover;
     }
@@ -460,17 +460,17 @@ color: rgb(94, 94, 94);
     }
       
     .third-need{
-        background-image: url(/3rd\ 3.jpeg);
+        background-image: url(3rd\ 3.jpeg);
     }
 
     .fourth-need{
-        background-image: url(/3rd\ 4.jpeg);
+        background-image: url(3rd\ 4.jpeg);
     }
 
     .fifth-need{
         height: 80% !important;
         background-color: chartreuse;
-        background-image: url(/3rd\ 5.jpeg);
+        background-image: url(3rd\ 5.jpeg);
         background-position: center;
         background-size: cover;
         width: 100% !important;
@@ -603,7 +603,7 @@ color: rgb(94, 94, 94);
         /* background-color: limegreen; */
         border-radius: 15px;
         margin: 0 .5vw;
-        background-image: url(/dig.jpeg);
+        background-image: url(dig.jpeg);
         background-position: center;
         background-size: cover;
         padding: 1vw;
@@ -621,7 +621,7 @@ color: rgb(94, 94, 94);
        height: 50%;
         width: 70% !important;
         /* background-color:lightcoral; */
-        background-image: url(/pencil.jpeg);
+        background-image: url(pencil.jpeg);
         background-position: center;
         background-size: cover;
         /* padding: 2.5vw; */
@@ -657,13 +657,13 @@ color: rgb(94, 94, 94);
     }
 
     .third-g{
-        background-image: url(/airtag.jpeg);
+        background-image: url(airtag.jpeg);
     }
 
     .fourth-g{
 padding-top: 15vw ;
 padding-left: 4vw;
-        background-image: url(/airtagfine.jpeg);
+        background-image: url(airtagfine.jpeg);
     }
 
     .fourth-g i{
@@ -697,11 +697,11 @@ padding-left: 4vw;
 
     .fifth-g{
       
-        background-image: url(/magic.jpeg);
+        background-image: url(magic.jpeg);
     }
 
     .sixth-g{
-        background-image: url(/45mm.jpeg);
+        background-image: url(45mm.jpeg);
         padding-top: 15vw ;
 padding-left: 4vw;
     }
@@ -713,15 +713,15 @@ padding-left: 4vw;
     }
 
     .seventh-g{
-        background-image: url(/iphone15.jpeg);
+        background-image: url(iphone15.jpeg);
     }
 
     .eighth-g{
-        background-image: url(/apple2k.jpeg);
+        background-image: url(apple2k.jpeg);
     }
 
    .last-g{
-    background-image: url(/accessories.jpeg);
+    background-image: url(accessories.jpeg);
    }
 
    .quality{
@@ -752,7 +752,7 @@ padding-left: 4vw;
     width: 25% !important ;
     padding: 1vw;
     /* background-color: lightseagreen; */
-    background-image: url(/applemusic.jpeg);
+    background-image: url(applemusic.jpeg);
     background-position: center;
     border-radius: 15px;
     background-size: cover;
@@ -785,7 +785,7 @@ padding-left: 4vw;
     height: 70%;
     /* padding: 0 2vw; */
     /* background-color: limegreen; */
-    background-image: url(/airpod2ndg.jpeg);
+    background-image: url(airpod2ndg.jpeg);
     background-position: center;
     background-size: cover;
 
@@ -834,21 +834,21 @@ padding-left: 4vw;
 
    
    .thired-q{
-    background-image: url(/homepodmidnight.jpeg);
+    background-image: url(homepodmidnight.jpeg);
    }
 
    .fourth-q{
-    background-image: url(/airpods-max.jpeg);
+    background-image: url(airpods-max.jpeg);
    }
 
 
    .fifth-q{
-    background-image: url(/homepod-mini-select-yellow.jpeg);
+    background-image: url(homepod-mini-select-yellow.jpeg);
    }
 
 
    .last-q{
-    background-image: url(/airpods3rdg.jpeg);
+    background-image: url(airpods3rdg.jpeg);
    }
 
    .experience{
@@ -874,7 +874,7 @@ padding-left: 4vw;
     width: 28% !important;
     /* background-color: #d45d5f; */
     border-radius: 15px;
-    background-image: url(/Apple\ TV+.jpeg);
+    background-image: url(Apple\ TV+.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -902,7 +902,7 @@ padding-left: 4vw;
     width: 26% !important;
     /* background-color: #d45d5f; */
     border-radius: 15px;
-    background-image: url(/applesubs.jpeg);
+    background-image: url(applesubs.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -926,12 +926,12 @@ padding-left: 4vw;
 }
 
    .thired-experience{
-    background-image: url(/applecare.jpeg);
+    background-image: url(applecare.jpeg);
    }
 
 
    .last-experience{
-    background-image: url(/homekit.jpeg);
+    background-image: url(homekit.jpeg);
    }
 
 .experiencepp h6{
@@ -963,7 +963,7 @@ padding-left: 4vw;
     width: 23%;
     /* background-color: aqua; */
     border-radius: 15px;
-    background-image: url(/education.jpeg);
+    background-image: url(education.jpeg);
 background-position: center;
 background-size: cover;
 box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
